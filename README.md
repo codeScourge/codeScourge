@@ -31,10 +31,9 @@ I'm Ivan, a dedicated Full-Stack Web Developer, DevOps specialist, Cloud enthusi
 - AGILE (LEAN)
 
 ##### other skills
-- sales
-- basic UI/UX
-- product management
-- business management
+- sales in early-stage B2B SaaS
+- basic UI/UX web-design 
+- product and business management for startups
 
 
 ### Connect with me [here](https://www.linkedin.com/in/ivan-bokarev-78b053263/)
