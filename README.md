@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Ivan, a dedicated Full-Stack Web Developer, DevOps specialist, Cloud enthusiast, and Machine Learning Engineer. My passion lies in seamlessly integrating Artificial Intelligence into the web. As the founder of Neural Reality, I'm committed to shaping the future where technology meets innovation.
+I'm Ivan, a dedicated Full-Stack Web Developer, DevOps specialist, Cloud enthusiast, and Machine Learning Engineer. My passion lies in seamlessly integrating Artificial Intelligence into the web. As a founder at [Neural Reality](https://neural-reality.de), I'm committed to shaping the future where technology meets innovation.
 
 ### My skillset and experience:
 ##### Web Development
