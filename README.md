@@ -1,42 +1,37 @@
 # Hi there 👋
 
-I'm Ivan, a dedicated Full-Stack Web Developer, DevOps specialist, Cloud enthusiast, and Machine Learning Engineer. My passion lies in seamlessly integrating Artificial Intelligence into the web. As a founder at [Neural Reality](https://neural-reality.de), I'm committed to shaping the future where technology meets innovation.
+I'm Ivan, a dedicated Full-Stack Web Developer, Cloud enthusiast, and Machine Learning Engineer. My passion lies in seamlessly integrating Artificial Intelligence into the web. As a founder at [Neural Reality](https://neural-reality.de), I'm committed to shaping the future where technology meets innovation. When I am not programming I like to go snowboarding or motorcycling, read, play guitar, cook, and work out. 
 
 ### My skillset and experience:
-##### Web Development
+##### 🛜 Web Development
 - HTML, CSS, JS, SQL
 - Flask (Python)
 - ReactJS, ReactRouter, ReactQuery
-
-##### ML and AI
+  
+##### 🤖 ML and AI
 - strong mathematical understanding of LLMs
 - Pytorch and Tensorflow
 - HuggingFace: Transformers, Datasets, ...
 - scikit-learn
 
-##### Cloud (AWS)
-- EC2, ECR, ECS
-- LAMBDA
-- Elastic Beanstalk
-- Route53
-
-##### tools and programms
+##### ☁️ Cloud
+- I use Serverless Framework for IaS (Infrastructure as Code)
+- Having used monoliths, microservices and serverless, I have experience in most AWS's services
+##### 🔧 tools and programms
 - Docker and Docker Compose
-- Prometheus
 - GitHub Actions
+- Prometheus
 - Linux
-- Serverless Framework
 
-##### methodologies and approaches
+##### ✅ other skills
+- Telegram-bot development
 - AGILE (LEAN)
-
-##### other skills
 - sales in early-stage B2B SaaS
 - basic UI/UX web-design 
 - product and business management for startups
 
 
-### Connect with me [here](https://www.linkedin.com/in/ivan-bokarev-78b053263/)
+### Connect with me [here](https://www.linkedin.com/in/ivan-bokarev-78b053263/)!
 
 
 <!--
