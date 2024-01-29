@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Ivan, a Full-Stack Web Developer, Cloud- , and Machine Learning Engineer. As a founder at [Neural Reality](https://neural-reality.de), my passion lies in integrating Artificial Intelligence into the web and solving real-world problems with this new amazing technology. When I am not programming I like to go snowboarding or motorcycling, read, play guitar, cook, and work out. 
+I'm Ivan, a Full-Stack Web Developer, Cloud- , and Machine Learning Engineer. As a co-founder at [Neural Reality](https://neural-reality.de), my passion lies in integrating Artificial Intelligence into the web and solving real-world problems with this new amazing technology. When I am not programming I like to go snowboarding or motorcycling, read, play guitar, cook, and work out. 
 
 ### My skillset and experience:
 ##### 🛜 Web Development
