@@ -6,18 +6,18 @@ I'm Ivan, a Full-Stack Web Developer, Cloud- , and Machine Learning Engineer. As
 ##### 🛜 Web Development
 - HTML, CSS, JS, SQL
 - Flask (Python)
+- NextJS
 - ReactJS, ReactRouter, ReactQuery
   
 ##### 🤖 ML and AI
-- strong mathematical understanding of LLMs
 - Pytorch and Tensorflow
 - HuggingFace: Transformers, Datasets, ...
 - scikit-learn
 
 ##### ☁️ Cloud
 - I use Serverless Framework for IaS (Infrastructure as Code)
-- Having used monoliths, microservices and serverless, I have experience in most AWS's services
-##### 🔧 tools and programms
+- Having used monoliths, microservices and serverless, I have experience in most of AWS's services
+##### 🔧 tools, programms, OSs
 - Docker and Docker Compose
 - GitHub Actions
 - Prometheus
@@ -25,10 +25,7 @@ I'm Ivan, a Full-Stack Web Developer, Cloud- , and Machine Learning Engineer. As
 
 ##### ✅ other skills
 - Telegram-bot development
-- AGILE (LEAN)
-- sales in early-stage B2B SaaS
-- basic UI/UX web-design 
-- product and business management for startups
+- basic interaction and UI/UX design 
 
 
 ### Connect with me [here](https://www.linkedin.com/in/ivan-bokarev-78b053263/)!
