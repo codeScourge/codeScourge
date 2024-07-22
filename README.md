@@ -2,13 +2,14 @@
 ##### Web Development
 - HTML, CSS, JS, SQL
 - Python Flask
-- Postgress, MySQL
 - NextJS, ReactJS
-- PyTelegramBot
-- Chrome Plugin Development
 - ThreeJS
 - PostCSS, ESBuild
-- Reddis-Queue
+- Nginx and Gunicorn
+
+##### Special Cases
+- Telegram Bots
+- Chrome Plugins
   
 ##### AI / ML / Data Science
 - Pytorch and Tensorflow
