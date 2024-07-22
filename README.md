@@ -1,21 +1,25 @@
-##### 🛜 Web Development
+## Techstack / Skills
+##### Web Development
 - HTML, CSS, JS, SQL
 - Python Flask
-- NextJS
-- ReactJS, ReactRouter, ReactQuery
+- Postgress, MySQL
+- NextJS, ReactJS
 - PyTelegramBot
+- Chrome Plugin Development
+- ThreeJS
+- PostCSS, ESBuild
+- Reddis-Queue
   
-##### 🤖 ML and AI
+##### AI / ML / Data Science
 - Pytorch and Tensorflow
 - HuggingFace: Transformers, Datasets, ...
 - scikit-learn
 
-##### ☁️ Cloud
-- I use Serverless Framework for IaS (Infrastructure as Code)
-- Having used monoliths, microservices and serverless, I have experience in most of AWS's services
+##### Infrastructure / Cloud
+- Serverless Framework
+- most of AWS's services, having used monoliths, microservices and serverless
 
-##### 🔧 tools, programms, OSs
+##### misc.
 - Docker and Docker Compose
-- GitHub Actions
-- Prometheus
+- know how to setup DNS and Email
 - Linux
