@@ -1,26 +1,18 @@
-## Techstack / Skills
-##### Web Development
-- HTML, CSS, JS, SQL
+## stuff I know how to do
+##### webdev
+- HTML, CSS, JS, SQL (duh?)
 - Python Flask
-- NextJS, ReactJS
-- ThreeJS
+- ReactJS
+- ThreeJS (currently learning)
 - PostCSS, ESBuild
 - Nginx and Gunicorn
 
-##### Special Cases
-- Telegram Bots
-- Chrome Plugins
-  
-##### AI / ML / Data Science
-- Pytorch and Tensorflow
-- HuggingFace: Transformers, Datasets, ...
-- scikit-learn
-
-##### Infrastructure / Cloud
+##### infra/cloud
 - Serverless Framework
-- most of AWS's services, having used monoliths, microservices and serverless
+- most of AWS's services
 
 ##### misc.
-- Docker and Docker Compose
-- know how to setup DNS and Email
-- Linux
+- Docker (+Compose)
+- know how to setup DNS, Email, and all that stuff
+- Telegram Bots
+- Chrome Plugins
