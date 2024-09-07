@@ -3,7 +3,7 @@
 - HTML, CSS, JS, SQL (duh?)
 - Python Flask
 - ReactJS
-- ThreeJS (currently learning)
+- ThreeJS
 - PostCSS, ESBuild
 - Nginx and Gunicorn
 
