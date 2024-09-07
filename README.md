@@ -16,3 +16,4 @@
 - know how to setup DNS, Email, and all that stuff
 - Telegram Bots
 - Chrome Plugins
+- AI stuff
