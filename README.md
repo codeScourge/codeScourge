@@ -6,6 +6,8 @@
 - ThreeJS
 - PostCSS, ESBuild
 - Nginx and Gunicorn
+- RabbitMQ, Postgres
+- Prometheus / Grafana
 
 ##### infra/cloud
 - Serverless Framework
